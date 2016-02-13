@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBeeLastFmPlugin", "MusicBeeLastFmPlugin.csproj", "{F5D46BA1-6F21-40EF-9695-46105CCACD08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBeeLastFmPlugin", "MusicBeeLastFmPlugin\MusicBeeLastFmPlugin.csproj", "{F5D46BA1-6F21-40EF-9695-46105CCACD08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBeeLastFmExe", "..\MusicBeeLastFmExe\MusicBeeLastFmExe.csproj", "{E314873B-ED96-4FA6-B3B2-6D6D08A78B6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBeeLastFmExe", "MusicBeeLastFmExe\MusicBeeLastFmExe.csproj", "{E314873B-ED96-4FA6-B3B2-6D6D08A78B6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

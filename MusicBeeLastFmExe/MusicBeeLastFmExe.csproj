@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LastFmMusicBeePlugin\MusicBeeLastFmPlugin.csproj">
+    <ProjectReference Include="..\MusicBeeLastFmPlugin\MusicBeeLastFmPlugin.csproj">
       <Project>{f5d46ba1-6f21-40ef-9695-46105ccacd08}</Project>
       <Name>MusicBeeLastFmPlugin</Name>
     </ProjectReference>
